@@ -11,3 +11,8 @@
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io/) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)  
 - **Presentation Link**: [YouTube](https://youtu.be/fLsKFwEa1as)
 
+## Reading Session 2 
+- **Paper**: [Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
+- **Authors**: Abel L Peirson V, E Meltem Tolunay
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io/) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)  
+- **Presentation Link**: [YouTube](https://youtu.be/e0R8lk57ras)
