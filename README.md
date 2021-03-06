@@ -1,7 +1,11 @@
 # KDAG AI Research Paper Reading Sessions
 
 **Link to join Microsoft Teams**: [Joining Link](https://tinyurl.com/4j92875m) or use `ytl991c` joining code  
-(Note: try above link - if it doesn't work do ping `Siba Smarak Panigrahi` on Facebook)  
+(Note: try above link - if it doesn't work do ping `Siba Smarak Panigrahi` on Facebook) 
+
+A good [ML/DL resource links](https://docs.google.com/document/d/1pSpg2HEiOazldspzyFPkW7moWKnnkglLjTqIN5Xv3CU/edit?usp=sharing) compiled by `Siba Smarak Panigrahi`  
+
+## Reading Sessions
 
 [Feedback OR AI related paper suggestion](https://forms.gle/AG4LdkzYMHX5PKEY9)  
 
