@@ -20,3 +20,9 @@ A good [ML/DL resource links](https://docs.google.com/document/d/1pSpg2HEiOazlds
 - **Authors**: Abel L Peirson V, E Meltem Tolunay
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io/) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)  
 - **Presentation Link**: [YouTube](https://youtu.be/e0R8lk57ras)
+
+### Reading Session 3
+- **Paper**: [Humor in Word Embeddings: Cockamamie Gobbledegook for Nincompoops](https://arxiv.org/abs/1902.02783)  
+- **Authors**: Limor Gultchin, Genevieve Patterson, Nancy Baym, Nathaniel Swinger, Adam Tauman Kalai  
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io/) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)    
+- **Presentation Link**: [YouTube](https://youtu.be/JUWZC7cStPc)  
