@@ -26,3 +26,10 @@ A good [ML/DL resource links](https://docs.google.com/document/d/1pSpg2HEiOazlds
 - **Authors**: Limor Gultchin, Genevieve Patterson, Nancy Baym, Nathaniel Swinger, Adam Tauman Kalai  
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)    
 - **Presentation Link**: [YouTube](https://youtu.be/JUWZC7cStPc)  
+
+### Reading Session 4
+- **Paper**: [Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks](https://arxiv.org/abs/1810.12348)  
+- **Authors**: Jie Hu, Li Shen, Samuel Albanie, Gang Sun, Andrea Vedaldi  
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)    
+- **Presentation Link**: [YouTube](https://youtu.be/Qm6luZ5_2dI)  
+

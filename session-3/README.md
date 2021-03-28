@@ -1,3 +1,11 @@
+### Reading Session 3
+- **Paper**: [Humor in Word Embeddings: Cockamamie Gobbledegook for Nincompoops](https://arxiv.org/abs/1902.02783)  
+- **Authors**: Limor Gultchin, Genevieve Patterson, Nancy Baym, Nathaniel Swinger, Adam Tauman Kalai  
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)    
+- **Presentation Link**: [YouTube](https://youtu.be/JUWZC7cStPc)  
+
+**Poster content**:  
+---
 **Student**: I have joined the slack workspace and I am coming to Meet.  
 **KDAG**: Wut? Just like that?  
 **Student**:  Rated-R with humor. I am in.  
