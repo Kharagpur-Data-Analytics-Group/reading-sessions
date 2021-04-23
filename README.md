@@ -4,6 +4,7 @@
 (Note: try above link - if it doesn't work please do ping `Siba Smarak Panigrahi` on Facebook.)   
 
 A good [ML/DL resource links](https://docs.google.com/document/d/1pSpg2HEiOazldspzyFPkW7moWKnnkglLjTqIN5Xv3CU/edit?usp=sharing) compiled by `Siba Smarak Panigrahi`  
+All the poster content in each README.md are written by `Siba Smarak Panigrahi` 😉
 
 ## Reading Sessions
 
