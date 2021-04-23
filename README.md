@@ -33,3 +33,6 @@ A good [ML/DL resource links](https://docs.google.com/document/d/1pSpg2HEiOazlds
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)    
 - **Presentation Link**: [YouTube](https://youtu.be/Qm6luZ5_2dI)  
 
+### Reading Session 5  
+- **Presenters**: [Aditi Singhania](https://www.linkedin.com/in/aditi-singhania-436371146/)      
+- **Presentation Link**: [YouTube](https://youtu.be/xRhVOmvenmw)    
