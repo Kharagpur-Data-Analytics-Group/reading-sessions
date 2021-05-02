@@ -35,5 +35,11 @@ All the poster content in each README.md are written by `Siba Smarak Panigrahi` 
 - **Presentation Link**: [YouTube](https://youtu.be/Qm6luZ5_2dI)  
 
 ### Reading Session 5  
+- **Topic**: `Neural Machine Translation with Attention Mechanism`  
 - **Presenters**: [Aditi Singhania](https://www.linkedin.com/in/aditi-singhania-436371146/)      
 - **Presentation Link**: [YouTube](https://youtu.be/xRhVOmvenmw)    
+
+### Reading Session 6  
+- **Topic**: `Bagging and Boosting`  
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)          
+- **Presentation Playlist**: [YouTube](https://www.youtube.com/playlist?list=PLcvdI4f2qdKWnxiaUuOb6Jffwbsfs5jM3)    

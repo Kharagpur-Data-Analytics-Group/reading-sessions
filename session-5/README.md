@@ -1,4 +1,5 @@
 ### Reading Session 5  
+- **Topic**: `Neural Machine Translation with Attention Mechanism`  
 - **Presenters**: [Aditi Singhania](https://www.linkedin.com/in/aditi-singhania-436371146/)      
 - **Presentation Link**: [YouTube](https://youtu.be/xRhVOmvenmw)   
 
