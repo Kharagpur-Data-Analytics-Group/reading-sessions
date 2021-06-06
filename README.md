@@ -42,4 +42,9 @@ All the poster content in each README.md are written by `Siba Smarak Panigrahi` 
 ### Reading Session 6  
 - **Topic**: `Bagging and Boosting`  
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)          
-- **Presentation Playlist**: [YouTube](https://www.youtube.com/playlist?list=PLcvdI4f2qdKWnxiaUuOb6Jffwbsfs5jM3)    
+- **Presentation Playlist**: [YouTube](https://www.youtube.com/playlist?list=PLcvdI4f2qdKWnxiaUuOb6Jffwbsfs5jM3)   
+
+### Reading Session 7  
+- **Topic**: [Guide Me: Interacting with Deep Networks](https://arxiv.org/abs/1803.11544)   
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)            
+- **Presentation Link**: [YouTube](https://youtu.be/Q3svCZCHBL4)   
