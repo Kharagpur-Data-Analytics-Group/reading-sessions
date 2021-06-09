@@ -46,5 +46,6 @@ All the poster content in each README.md are written by `Siba Smarak Panigrahi` 
 
 ### Reading Session 7  
 - **Topic**: [Guide Me: Interacting with Deep Networks](https://arxiv.org/abs/1803.11544)   
-- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)            
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)   
+- **Song for the Session**: [Sweet - Fox on the Run](https://www.youtube.com/watch?v=kRv7EjjwYBI)             
 - **Presentation Link**: [YouTube](https://youtu.be/Q3svCZCHBL4)   
