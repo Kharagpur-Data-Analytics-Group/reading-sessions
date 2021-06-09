@@ -45,7 +45,8 @@ All the poster content in each README.md are written by `Siba Smarak Panigrahi` 
 - **Presentation Playlist**: [YouTube](https://www.youtube.com/playlist?list=PLcvdI4f2qdKWnxiaUuOb6Jffwbsfs5jM3)   
 
 ### Reading Session 7  
-- **Topic**: [Guide Me: Interacting with Deep Networks](https://arxiv.org/abs/1803.11544)   
+- **Topic**: [Guide Me: Interacting with Deep Networks](https://arxiv.org/abs/1803.11544)  
+- **Authors** : Christian Rupprecht, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari  
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)   
 - **Song for the Session**: [Sweet - Fox on the Run](https://www.youtube.com/watch?v=kRv7EjjwYBI)             
 - **Presentation Link**: [YouTube](https://youtu.be/Q3svCZCHBL4)   
