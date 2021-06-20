@@ -49,4 +49,10 @@ All the poster content in each README.md are written by `Siba Smarak Panigrahi` 
 - **Authors** : Christian Rupprecht, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari  
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)   
 - **Song for the Session**: [Sweet - Fox on the Run](https://www.youtube.com/watch?v=kRv7EjjwYBI)             
-- **Presentation Link**: [YouTube](https://youtu.be/Q3svCZCHBL4)   
+- **Presentation Link**: [YouTube](https://youtu.be/Q3svCZCHBL4)    
+
+### Reading Session 8    
+- **Topic**: [Does It Make Sense? And Why? A Pilot Study for Sense-Making and Explanation](https://arxiv.org/abs/1906.00363)  
+- **Authors** : Cunxiang Wang, Shuailong Liang, Yue Zhang, Xiaonan Li, Tian Gao  
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)  
+- **Presentation Link**: [YouTube](https://youtu.be/s1bBctt2YIY)  
