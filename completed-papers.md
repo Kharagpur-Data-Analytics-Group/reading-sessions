@@ -5,4 +5,6 @@
 - **[Session-2](../main/session-2)** : [Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)  
 - **[Session-3](../main/session-3)** : [Humor in Word Embeddings: Cockamamie Gobbledegook for Nincompoops](https://arxiv.org/abs/1902.02783)  
 - **[Session-4](../main/session-4)** : [Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks](https://arxiv.org/abs/1810.12348)  
-- **[Session-7](../main/session-7)** : [Guide Me: Interacting with Deep Networks](https://arxiv.org/abs/1803.11544)      
+- **[Session-7](../main/session-7)** : [Guide Me: Interacting with Deep Networks](https://arxiv.org/abs/1803.11544)
+- **[Session-8](../main/session-8)** : [Does It Make Sense? And Why? A Pilot Study for Sense-Making and Explanation](https://arxiv.org/abs/1906.00363)
+- **[Session-10](../main/session-10)** : [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)      
