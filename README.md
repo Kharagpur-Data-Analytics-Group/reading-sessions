@@ -56,3 +56,9 @@ All the poster content in each README.md are written by `Siba Smarak Panigrahi` 
 - **Authors** : Cunxiang Wang, Shuailong Liang, Yue Zhang, Xiaonan Li, Tian Gao  
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io) and [Sohan Patnaik](https://github.com/Sohanpatnaik106)  
 - **Presentation Link**: [YouTube](https://youtu.be/s1bBctt2YIY)  
+
+### Reading Session 10    
+- **Topic**: [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)  
+- **Authors** : Jaemin Cho, Jie Lei, Hao Tan, Mohit Bansal  
+- **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io)   
+- **Presentation Link**: [YouTube](https://youtu.be/f5YgFZ0iVTI) 
