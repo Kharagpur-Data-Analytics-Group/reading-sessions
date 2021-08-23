@@ -7,7 +7,7 @@
 **Poster content**:   
 ---  
 **Students**: Accelerate Training? Are you talking about some race?   
-**KDAG**: Everything is a race indeed in this world. 
+**KDAG**: Everything is a race indeed in this world. </br>
 **Students**: Can you please elaborate?   
 **KDAG**: Yeah, sure. Computer becomes intelligent faster than before.  
 
