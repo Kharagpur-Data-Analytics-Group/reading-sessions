@@ -62,3 +62,9 @@ Feel free to add any resources into the above doc (by adding a comment in the do
 - **Authors** : Jaemin Cho, Jie Lei, Hao Tan, Mohit Bansal  
 - **Presenters**: [Siba Smarak Panigrahi](https://sibasmarak.github.io)   
 - **Presentation Link**: [YouTube](https://youtu.be/f5YgFZ0iVTI) 
+
+### Reading Session 11    
+- **Topic**: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)  
+- **Authors** : Sergey Ioffe, Christian Szegedy
+- **Presenters**: [Sohan Patnaik](https://github.com/Sohanpatnaik106) and Yatindra Indoria 
+- **Presentation Link**: [YouTube](https://youtu.be/yvmg3VTQKXo) 
