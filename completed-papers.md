@@ -8,4 +8,4 @@
 - **[Session-7](../main/session-7)** : [Guide Me: Interacting with Deep Networks](https://arxiv.org/abs/1803.11544)
 - **[Session-8](../main/session-8)** : [Does It Make Sense? And Why? A Pilot Study for Sense-Making and Explanation](https://arxiv.org/abs/1906.00363)
 - **[Session-10](../main/session-10)** : [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
-- - **[Session-10](../main/session-11)** : [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)         
+- **[Session-10](../main/session-11)** : [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)         
