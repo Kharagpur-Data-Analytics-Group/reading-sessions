@@ -67,4 +67,10 @@ Feel free to add any resources into the above doc (by adding a comment in the do
 - **Topic**: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)  
 - **Authors** : Sergey Ioffe, Christian Szegedy
 - **Presenters**: [Sohan Patnaik](https://github.com/Sohanpatnaik106) and Yatindra Indoria 
-- **Presentation Link**: [YouTube](https://youtu.be/yvmg3VTQKXo) 
+- **Presentation Link**: [YouTube](https://youtu.be/yvmg3VTQKXo)
+
+### Reading Session 12    
+- **Topic**: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)  
+- **Authors** : Jeffrey Pennington, Richard Socher, Christopher D. Manning
+- **Presenters**: [Sohan Patnaik](https://github.com/Sohanpatnaik106) and Yatindra Indoria 
+- **Presentation Link**: [YouTube](https://youtu.be/GE13MkDv8QI)
