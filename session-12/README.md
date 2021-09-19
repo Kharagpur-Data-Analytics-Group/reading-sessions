@@ -7,7 +7,7 @@
 **Poster content**:   
 ---  
 **Students**: GloVe! What's this all about?   
-**KDAG**: Umm, Are you confused with something used in winters?
+**KDAG**: Umm, Are you confused with something used in winters?  
 **Students**: Yeah, exactly. Please tell us what this is all about?   
 **KDAG**: Yeah, sure. It is one of the most important breakthroughs in NLP.   
 
