@@ -74,3 +74,9 @@ Feel free to add any resources into the above doc (by adding a comment in the do
 - **Authors** : Jeffrey Pennington, Richard Socher, Christopher D. Manning
 - **Presenters**: [Sohan Patnaik](https://github.com/Sohanpatnaik106) and Yatindra Indoria 
 - **Presentation Link**: [YouTube](https://youtu.be/GE13MkDv8QI)
+
+### Reading Session 13    
+- **Topic**: [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)  
+- **Authors** : Dmytro Kotovenko, Matthias Wright, Arthur Heimbrecht, Björn Ommer
+- **Presenters**: [Sohan Patnaik](https://github.com/Sohanpatnaik106) and Kishan Pandey
+- **Presentation Link**: [YouTube](https://youtu.be/EpcYF1ea-68)
