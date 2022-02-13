@@ -11,3 +11,4 @@
 - **[Session-11](../main/session-11)** : [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 - **[Session-12](../main/session-12)** : [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)         
 - **[Session-13](../main/session-13)** : [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)
+- **[Session-14](../main/session-14)** : [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers](https://arxiv.org/abs/2103.16553)
