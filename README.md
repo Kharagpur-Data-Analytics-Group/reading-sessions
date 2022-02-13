@@ -80,3 +80,9 @@ Feel free to add any resources into the above doc (by adding a comment in the do
 - **Authors** : Dmytro Kotovenko, Matthias Wright, Arthur Heimbrecht, Björn Ommer
 - **Presenters**: [Sohan Patnaik](https://github.com/Sohanpatnaik106) and Kishan Pandey
 - **Presentation Link**: [YouTube](https://youtu.be/EpcYF1ea-68)
+
+### Reading Session 14    
+- **Topic**: [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers](https://arxiv.org/abs/2103.16553)  
+- **Authors** : Antoine Miech, Jean-Baptiste Alayrac, Ivan Laptev, Josef Sivic, Andrew Zisserman
+- **Presenters**: [Sohan Patnaik](https://github.com/Sohanpatnaik106) and [Siba Smarak Panigrahi](https://github.com/sibasmarak)
+- **Presentation Link**: [YouTube](https://youtu.be/ag_vNBC_R78)
